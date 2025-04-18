@@ -160,7 +160,7 @@ interface IDACSBCompliance {
 }
 ```
 
-[View Full API Docs](https://api.dacsb.com/docs) | [Postman Collection](https://api.dacsb.com/postman)
+[View Full API Docs](https://dacsb.com/documentation/) 
 ```
 
 ---
@@ -230,7 +230,7 @@ Key events to track:
 | Lock-up Periods    | ✓     | ✓    | ✗    |
 | AML Checks         | ✓     | ✓    | ✓    |
 
-[Download Compliance Template](#) | [Contact Legal Team](mailto:compliance@dacsb.com)
+ [Contact Legal Team](mailto:compliance@dacsb.com)
 ```
 
 ---
