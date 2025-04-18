@@ -1,4 +1,3 @@
-Here's a comprehensive **Compliance Guide** in GitHub-flavored Markdown format with actionable checklists, technical details, and regulatory specifics:
 
 ```markdown
 # DACSB Compliance Guide
