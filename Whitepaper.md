@@ -1,5 +1,3 @@
-Here are GitHub-flavored Markdown files for your DACSB documentation:
-
 ### Whitepaper.md
 ```markdown
 # DACSB Whitepaper  
